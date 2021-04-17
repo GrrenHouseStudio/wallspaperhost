@@ -18,16 +18,16 @@
         {
 		"name": "Papercraft scene03",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/115108580-e751c400-9f8e-11eb-943d-7b04056a8dca.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/115108580-e751c400-9f8e-11eb-943d-7b04056a8dca.png",
+		"url": "https://user-images.githubusercontent.com/34376831/115109509-b758ef80-9f93-11eb-8e12-4cc54aa2ac39.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/115109509-b758ef80-9f93-11eb-8e12-4cc54aa2ac39.png",
 		"downloadable" : "true",
 		"collections": "Papercraft scenes"
 	},
         {
 		"name": "Papercraft scene04",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/115108587-ef116880-9f8e-11eb-9c1b-63447179d611.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/115108587-ef116880-9f8e-11eb-9c1b-63447179d611.png",
+		"url": "https://user-images.githubusercontent.com/34376831/115109493-9abcb780-9f93-11eb-8faa-d3735e09f814.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/115109493-9abcb780-9f93-11eb-8faa-d3735e09f814.png",
 		"downloadable" : "true",
 		"collections": "Papercraft scenes"
 	},
