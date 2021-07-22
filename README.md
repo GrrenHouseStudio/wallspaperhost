@@ -1,5 +1,293 @@
 [
         {
+		"name": "minimalist01",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631584-854105e7-d1b3-40ca-9d75-94f5ca297f69.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631584-854105e7-d1b3-40ca-9d75-94f5ca297f69.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
+		"name": "minimalist02",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631516-e8021930-7938-49c2-a2cc-779cd21f40a1.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631516-e8021930-7938-49c2-a2cc-779cd21f40a1.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
+		"name": "minimalist03",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631413-7cdc1151-7bb9-47a4-a087-d91ff7b4cf11.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631413-7cdc1151-7bb9-47a4-a087-d91ff7b4cf11.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
+		"name": "minimalist04",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631350-6fa7288e-b1e4-4536-858e-b7c7199ef4a9.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631350-6fa7288e-b1e4-4536-858e-b7c7199ef4a9.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
+		"name": "minimalist05",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631298-5ff38e68-954b-43bd-8397-af3a0d0391e7.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631298-5ff38e68-954b-43bd-8397-af3a0d0391e7.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
+		"name": "minimalist06",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631200-89f3864d-10c5-45b7-88da-dd175677c58d.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631200-89f3864d-10c5-45b7-88da-dd175677c58d.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
+		"name": "minimalist07",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/126631089-4064506a-eac6-4a88-9a05-25d05cf5b8c9.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/126631089-4064506a-eac6-4a88-9a05-25d05cf5b8c9.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},	
+{
+		"name": "minimalist08",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99535842-7aca9d00-29cf-11eb-849c-e16b88436fe6.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535842-7aca9d00-29cf-11eb-849c-e16b88436fe6.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist09",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99535843-7b633380-29cf-11eb-8b0d-700ab05ac433.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535843-7b633380-29cf-11eb-8b0d-700ab05ac433.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist10",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99535845-7b633380-29cf-11eb-829b-df42c5edbfac.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535845-7b633380-29cf-11eb-829b-df42c5edbfac.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist11",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99535829-77cfac80-29cf-11eb-8bc6-b79da12b065b.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535829-77cfac80-29cf-11eb-8bc6-b79da12b065b.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist12",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99535837-79997000-29cf-11eb-88e9-be2a764073c6.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535837-79997000-29cf-11eb-88e9-be2a764073c6.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist13",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99535839-7a320680-29cf-11eb-8036-e7008777061f.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535839-7a320680-29cf-11eb-8036-e7008777061f.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+	{
+		"name": "minimalist14",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94990226-001cfe00-0598-11eb-9460-ba8a92f78d46.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94990226-001cfe00-0598-11eb-9460-ba8a92f78d46.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist15",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94990281-82a5bd80-0598-11eb-86ea-7740ba9a74c6.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94990281-82a5bd80-0598-11eb-86ea-7740ba9a74c6.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist16",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94991207-26926780-059f-11eb-8841-4208e370c6b8.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991207-26926780-059f-11eb-8841-4208e370c6b8.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist17",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94991244-6bb69980-059f-11eb-9684-44860b92cd07.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991244-6bb69980-059f-11eb-9684-44860b92cd07.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist18",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94991288-c2bc6e80-059f-11eb-83a4-f090b938df78.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991288-c2bc6e80-059f-11eb-83a4-f090b938df78.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist19",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94991320-00b99280-05a0-11eb-938e-256edbfd69c9.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991320-00b99280-05a0-11eb-938e-256edbfd69c9.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist20",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94991376-6574ed00-05a0-11eb-9e78-c5dae81de425.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991376-6574ed00-05a0-11eb-9e78-c5dae81de425.jpg",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist21",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/94991502-3612b000-05a1-11eb-9e20-b25bcfc5cea1.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991502-3612b000-05a1-11eb-9e20-b25bcfc5cea1.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist22",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95006655-5cc5fa80-0624-11eb-8be9-6d5b874bb839.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006655-5cc5fa80-0624-11eb-8be9-6d5b874bb839.jpg",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist23",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95006701-a57db380-0624-11eb-82f8-91492759cb8f.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006701-a57db380-0624-11eb-82f8-91492759cb8f.jpg",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist24",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95006742-0a390e00-0625-11eb-8b48-31532b1e50e6.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006742-0a390e00-0625-11eb-8b48-31532b1e50e6.jpg",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist25",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95006836-2d17f200-0626-11eb-86b5-d65ec032a49f.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006836-2d17f200-0626-11eb-86b5-d65ec032a49f.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist26",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95006872-a0b9ff00-0626-11eb-97fc-96b848a6369c.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006872-a0b9ff00-0626-11eb-97fc-96b848a6369c.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist27",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95006959-ac59f580-0627-11eb-8a83-f503e58eb1cf.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006959-ac59f580-0627-11eb-8a83-f503e58eb1cf.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist28",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007787-45d9d500-0631-11eb-9e30-0c57dc1a8961.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007787-45d9d500-0631-11eb-9e30-0c57dc1a8961.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist29",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007820-981af600-0631-11eb-8d94-bf170e10d2a4.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007820-981af600-0631-11eb-8d94-bf170e10d2a4.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist30",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007839-d2849300-0631-11eb-8601-8579c73c96fc.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007839-d2849300-0631-11eb-8601-8579c73c96fc.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist31",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007861-0fe92080-0632-11eb-875d-28fc8e601f46.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007861-0fe92080-0632-11eb-875d-28fc8e601f46.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist32",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007874-3e66fb80-0632-11eb-99bc-b2bc04ad3d32.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007874-3e66fb80-0632-11eb-99bc-b2bc04ad3d32.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist33",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007907-7706d500-0632-11eb-871d-752e9a81986f.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007907-7706d500-0632-11eb-871d-752e9a81986f.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist34",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95007925-b0d7db80-0632-11eb-9336-752f17eddc11.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007925-b0d7db80-0632-11eb-9336-752f17eddc11.png",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist35",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95013055-3a030880-065b-11eb-8f3b-54d461411967.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95013055-3a030880-065b-11eb-8f3b-54d461411967.jpg",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+        {
+		"name": "minimalist36",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95672907-fd3a9280-0bc1-11eb-8777-8ae0e1f54456.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95672907-fd3a9280-0bc1-11eb-8777-8ae0e1f54456.jpg",
+		"downloadable" : "true",
+		"collections": "Minimalistic"
+	},
+{
 		"name": "Space01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/34376831/123238986-8821aa00-d511-11eb-9f1e-161ac723a97b.png",
@@ -1959,238 +2247,6 @@
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/101247881-e3d94100-3741-11eb-9f0f-46b7f0d1a03a.png",
 		"downloadable" : "true",
 		"collections": "Seascape"
-	},
-	{
-		"name": "minimalist01",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/99535842-7aca9d00-29cf-11eb-849c-e16b88436fe6.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535842-7aca9d00-29cf-11eb-849c-e16b88436fe6.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist02",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/99535843-7b633380-29cf-11eb-8b0d-700ab05ac433.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535843-7b633380-29cf-11eb-8b0d-700ab05ac433.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist03",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/99535845-7b633380-29cf-11eb-829b-df42c5edbfac.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535845-7b633380-29cf-11eb-829b-df42c5edbfac.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist04",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/99535829-77cfac80-29cf-11eb-8bc6-b79da12b065b.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535829-77cfac80-29cf-11eb-8bc6-b79da12b065b.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist05",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/99535837-79997000-29cf-11eb-88e9-be2a764073c6.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535837-79997000-29cf-11eb-88e9-be2a764073c6.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist06",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/99535839-7a320680-29cf-11eb-8036-e7008777061f.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/99535839-7a320680-29cf-11eb-8036-e7008777061f.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-	{
-		"name": "minimalist07",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94990226-001cfe00-0598-11eb-9460-ba8a92f78d46.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94990226-001cfe00-0598-11eb-9460-ba8a92f78d46.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist08",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94990281-82a5bd80-0598-11eb-86ea-7740ba9a74c6.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94990281-82a5bd80-0598-11eb-86ea-7740ba9a74c6.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist09",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94991207-26926780-059f-11eb-8841-4208e370c6b8.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991207-26926780-059f-11eb-8841-4208e370c6b8.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist10",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94991244-6bb69980-059f-11eb-9684-44860b92cd07.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991244-6bb69980-059f-11eb-9684-44860b92cd07.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist11",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94991288-c2bc6e80-059f-11eb-83a4-f090b938df78.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991288-c2bc6e80-059f-11eb-83a4-f090b938df78.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist12",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94991320-00b99280-05a0-11eb-938e-256edbfd69c9.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991320-00b99280-05a0-11eb-938e-256edbfd69c9.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist13",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94991376-6574ed00-05a0-11eb-9e78-c5dae81de425.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991376-6574ed00-05a0-11eb-9e78-c5dae81de425.jpg",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist14",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/94991502-3612b000-05a1-11eb-9e20-b25bcfc5cea1.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/94991502-3612b000-05a1-11eb-9e20-b25bcfc5cea1.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist15",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95006655-5cc5fa80-0624-11eb-8be9-6d5b874bb839.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006655-5cc5fa80-0624-11eb-8be9-6d5b874bb839.jpg",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist16",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95006701-a57db380-0624-11eb-82f8-91492759cb8f.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006701-a57db380-0624-11eb-82f8-91492759cb8f.jpg",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist17",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95006742-0a390e00-0625-11eb-8b48-31532b1e50e6.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006742-0a390e00-0625-11eb-8b48-31532b1e50e6.jpg",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist18",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95006836-2d17f200-0626-11eb-86b5-d65ec032a49f.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006836-2d17f200-0626-11eb-86b5-d65ec032a49f.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist19",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95006872-a0b9ff00-0626-11eb-97fc-96b848a6369c.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006872-a0b9ff00-0626-11eb-97fc-96b848a6369c.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist20",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95006959-ac59f580-0627-11eb-8a83-f503e58eb1cf.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95006959-ac59f580-0627-11eb-8a83-f503e58eb1cf.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist21",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007787-45d9d500-0631-11eb-9e30-0c57dc1a8961.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007787-45d9d500-0631-11eb-9e30-0c57dc1a8961.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist22",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007820-981af600-0631-11eb-8d94-bf170e10d2a4.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007820-981af600-0631-11eb-8d94-bf170e10d2a4.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist23",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007839-d2849300-0631-11eb-8601-8579c73c96fc.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007839-d2849300-0631-11eb-8601-8579c73c96fc.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist24",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007861-0fe92080-0632-11eb-875d-28fc8e601f46.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007861-0fe92080-0632-11eb-875d-28fc8e601f46.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist25",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007874-3e66fb80-0632-11eb-99bc-b2bc04ad3d32.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007874-3e66fb80-0632-11eb-99bc-b2bc04ad3d32.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist26",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007907-7706d500-0632-11eb-871d-752e9a81986f.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007907-7706d500-0632-11eb-871d-752e9a81986f.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist27",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95007925-b0d7db80-0632-11eb-9336-752f17eddc11.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95007925-b0d7db80-0632-11eb-9336-752f17eddc11.png",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist28",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95013055-3a030880-065b-11eb-8f3b-54d461411967.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95013055-3a030880-065b-11eb-8f3b-54d461411967.jpg",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
-	},
-        {
-		"name": "minimalist29",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95672907-fd3a9280-0bc1-11eb-8777-8ae0e1f54456.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95672907-fd3a9280-0bc1-11eb-8777-8ae0e1f54456.jpg",
-		"downloadable" : "true",
-		"collections": "Minimalistic"
 	},
         {
 		"name": "nature01",
